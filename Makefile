@@ -35,7 +35,8 @@ veryclean: clean
 XyGrib: $(SRC)
 	@ echo
 	rm -f ./XyGrib
-	cd src/g2clib; make
+#	To allow builds on Ubuntu >17.04
+#	cd src/g2clib; make
 	cd src; $(QMAKE); make -j6
 	@ echo "-----------------------------------"
 	@ echo "#!/bin/bash" >> ./XyGrib
