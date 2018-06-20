@@ -1,7 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'ColorEditorWidget.ui'
 **
-** Created by: Qt User Interface Compiler version 5.10.0
+** Created by: Qt User Interface Compiler version 5.9.1
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/
@@ -103,8 +103,8 @@ public:
 
     void retranslateUi(QWidget *ColorEditorWidget)
     {
-        ColorEditorWidget->setWindowTitle(QApplication::translate("ColorEditorWidget", "Form", nullptr));
-        resetButton->setText(QApplication::translate("ColorEditorWidget", "Reset", nullptr));
+        ColorEditorWidget->setWindowTitle(QApplication::translate("ColorEditorWidget", "Form", Q_NULLPTR));
+        resetButton->setText(QApplication::translate("ColorEditorWidget", "Reset", Q_NULLPTR));
     } // retranslateUi
 
 };

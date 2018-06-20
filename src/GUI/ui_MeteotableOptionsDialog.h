@@ -1,7 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'MeteotableOptionsDialog.ui'
 **
-** Created by: Qt User Interface Compiler version 5.10.0
+** Created by: Qt User Interface Compiler version 5.9.1
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/
@@ -236,20 +236,20 @@ public:
 
     void retranslateUi(QDialog *MeteotableOptionsDialog)
     {
-        MeteotableOptionsDialog->setWindowTitle(QApplication::translate("MeteotableOptionsDialog", "Meteotable parameters", nullptr));
-        label->setText(QApplication::translate("MeteotableOptionsDialog", "Cloud cover:", nullptr));
-        label_5->setText(QApplication::translate("MeteotableOptionsDialog", "Show wind in Beauforts:", nullptr));
+        MeteotableOptionsDialog->setWindowTitle(QApplication::translate("MeteotableOptionsDialog", "Meteotable parameters", Q_NULLPTR));
+        label->setText(QApplication::translate("MeteotableOptionsDialog", "Cloud cover:", Q_NULLPTR));
+        label_5->setText(QApplication::translate("MeteotableOptionsDialog", "Show wind in Beauforts:", Q_NULLPTR));
         cbShowBeauforts->setText(QString());
-        label_4->setText(QApplication::translate("MeteotableOptionsDialog", "Show wind arrows:", nullptr));
+        label_4->setText(QApplication::translate("MeteotableOptionsDialog", "Show wind arrows:", Q_NULLPTR));
         cbShowWindArrows->setText(QString());
-        label_6->setText(QApplication::translate("MeteotableOptionsDialog", "Sun and Moon almanac:", nullptr));
+        label_6->setText(QApplication::translate("MeteotableOptionsDialog", "Sun and Moon almanac:", Q_NULLPTR));
         cbSunMoonAlmanac->setText(QString());
-        btOK->setText(QApplication::translate("MeteotableOptionsDialog", "Ok", nullptr));
-        btCancel->setText(QApplication::translate("MeteotableOptionsDialog", "Cancel", nullptr));
-        label_2->setText(QApplication::translate("MeteotableOptionsDialog", "Avalaible data", nullptr));
-        btAddVisibleItem->setText(QApplication::translate("MeteotableOptionsDialog", "->", nullptr));
-        btRemoveVisibleItem->setText(QApplication::translate("MeteotableOptionsDialog", "<-", nullptr));
-        label_3->setText(QApplication::translate("MeteotableOptionsDialog", "Visible data", nullptr));
+        btOK->setText(QApplication::translate("MeteotableOptionsDialog", "Ok", Q_NULLPTR));
+        btCancel->setText(QApplication::translate("MeteotableOptionsDialog", "Cancel", Q_NULLPTR));
+        label_2->setText(QApplication::translate("MeteotableOptionsDialog", "Avalaible data", Q_NULLPTR));
+        btAddVisibleItem->setText(QApplication::translate("MeteotableOptionsDialog", "->", Q_NULLPTR));
+        btRemoveVisibleItem->setText(QApplication::translate("MeteotableOptionsDialog", "<-", Q_NULLPTR));
+        label_3->setText(QApplication::translate("MeteotableOptionsDialog", "Visible data", Q_NULLPTR));
     } // retranslateUi
 
 };

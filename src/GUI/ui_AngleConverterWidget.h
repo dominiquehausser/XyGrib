@@ -1,7 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'AngleConverterWidget.ui'
 **
-** Created by: Qt User Interface Compiler version 5.10.0
+** Created by: Qt User Interface Compiler version 5.9.1
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/
@@ -184,20 +184,20 @@ public:
 
     void retranslateUi(QWidget *AngleConverterWidget)
     {
-        AngleConverterWidget->setWindowTitle(QApplication::translate("AngleConverterWidget", "Angle", nullptr));
-        label->setText(QApplication::translate("AngleConverterWidget", "ddd\302\260 mm' ss\"", nullptr));
-        dddmmss_deg->setSuffix(QApplication::translate("AngleConverterWidget", " \302\260", nullptr));
-        dddmmss_min->setSuffix(QApplication::translate("AngleConverterWidget", " '", nullptr));
-        dddmmss_sec->setSuffix(QApplication::translate("AngleConverterWidget", " \"", nullptr));
-        label_2->setText(QApplication::translate("AngleConverterWidget", "ddd\302\260 mm.mm'", nullptr));
-        dddmm_deg->setSuffix(QApplication::translate("AngleConverterWidget", " \302\260", nullptr));
-        dddmm_min->setSuffix(QApplication::translate("AngleConverterWidget", " '", nullptr));
-        label_3->setText(QApplication::translate("AngleConverterWidget", "ddd.dddd\302\260", nullptr));
-        ddd_deg->setSuffix(QApplication::translate("AngleConverterWidget", " \302\260", nullptr));
-        label_4->setText(QApplication::translate("AngleConverterWidget", "radians", nullptr));
-        ddd_rad->setSuffix(QApplication::translate("AngleConverterWidget", " rd", nullptr));
-        label_5->setText(QApplication::translate("AngleConverterWidget", "grades", nullptr));
-        ddd_grad->setSuffix(QApplication::translate("AngleConverterWidget", " gr", nullptr));
+        AngleConverterWidget->setWindowTitle(QApplication::translate("AngleConverterWidget", "Angle", Q_NULLPTR));
+        label->setText(QApplication::translate("AngleConverterWidget", "ddd\302\260 mm' ss\"", Q_NULLPTR));
+        dddmmss_deg->setSuffix(QApplication::translate("AngleConverterWidget", " \302\260", Q_NULLPTR));
+        dddmmss_min->setSuffix(QApplication::translate("AngleConverterWidget", " '", Q_NULLPTR));
+        dddmmss_sec->setSuffix(QApplication::translate("AngleConverterWidget", " \"", Q_NULLPTR));
+        label_2->setText(QApplication::translate("AngleConverterWidget", "ddd\302\260 mm.mm'", Q_NULLPTR));
+        dddmm_deg->setSuffix(QApplication::translate("AngleConverterWidget", " \302\260", Q_NULLPTR));
+        dddmm_min->setSuffix(QApplication::translate("AngleConverterWidget", " '", Q_NULLPTR));
+        label_3->setText(QApplication::translate("AngleConverterWidget", "ddd.dddd\302\260", Q_NULLPTR));
+        ddd_deg->setSuffix(QApplication::translate("AngleConverterWidget", " \302\260", Q_NULLPTR));
+        label_4->setText(QApplication::translate("AngleConverterWidget", "radians", Q_NULLPTR));
+        ddd_rad->setSuffix(QApplication::translate("AngleConverterWidget", " rd", Q_NULLPTR));
+        label_5->setText(QApplication::translate("AngleConverterWidget", "grades", Q_NULLPTR));
+        ddd_grad->setSuffix(QApplication::translate("AngleConverterWidget", " gr", Q_NULLPTR));
     } // retranslateUi
 
 };

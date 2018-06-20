@@ -1,7 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'PoiEditorDialog.ui'
 **
-** Created by: Qt User Interface Compiler version 5.10.0
+** Created by: Qt User Interface Compiler version 5.9.1
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/
@@ -236,34 +236,34 @@ public:
 
     void retranslateUi(QDialog *PoiEditorDialog)
     {
-        PoiEditorDialog->setWindowTitle(QApplication::translate("PoiEditorDialog", "Point of interest", nullptr));
-        label->setText(QApplication::translate("PoiEditorDialog", "Name", nullptr));
-        label_2->setText(QApplication::translate("PoiEditorDialog", "Location", nullptr));
+        PoiEditorDialog->setWindowTitle(QApplication::translate("PoiEditorDialog", "Point of interest", Q_NULLPTR));
+        label->setText(QApplication::translate("PoiEditorDialog", "Name", Q_NULLPTR));
+        label_2->setText(QApplication::translate("PoiEditorDialog", "Location", Q_NULLPTR));
 #ifndef QT_NO_TOOLTIP
         inputPosition->setToolTip(QString());
 #endif // QT_NO_TOOLTIP
 #ifndef QT_NO_WHATSTHIS
         inputPosition->setWhatsThis(QString());
 #endif // QT_NO_WHATSTHIS
-        label_3->setText(QApplication::translate("PoiEditorDialog", "Mark color", nullptr));
+        label_3->setText(QApplication::translate("PoiEditorDialog", "Mark color", Q_NULLPTR));
 #ifndef QT_NO_TOOLTIP
         inputMarkColor->setToolTip(QString());
 #endif // QT_NO_TOOLTIP
 #ifndef QT_NO_WHATSTHIS
         inputMarkColor->setWhatsThis(QString());
 #endif // QT_NO_WHATSTHIS
-        label_4->setText(QApplication::translate("PoiEditorDialog", "Style", nullptr));
+        label_4->setText(QApplication::translate("PoiEditorDialog", "Style", Q_NULLPTR));
 #ifndef QT_NO_TOOLTIP
         inputStyle->setToolTip(QString());
 #endif // QT_NO_TOOLTIP
 #ifndef QT_NO_WHATSTHIS
         inputStyle->setWhatsThis(QString());
 #endif // QT_NO_WHATSTHIS
-        cbIsMovable->setText(QApplication::translate("PoiEditorDialog", "Can be moved with mouse (Ctrl+Left click)", nullptr));
-        cbShowLabel->setText(QApplication::translate("PoiEditorDialog", "Display the name", nullptr));
-        btValid->setText(QApplication::translate("PoiEditorDialog", "Ok", nullptr));
-        btCancel->setText(QApplication::translate("PoiEditorDialog", "Cancel", nullptr));
-        btDelete->setText(QApplication::translate("PoiEditorDialog", "Delete this POI", nullptr));
+        cbIsMovable->setText(QApplication::translate("PoiEditorDialog", "Can be moved with mouse (Ctrl+Left click)", Q_NULLPTR));
+        cbShowLabel->setText(QApplication::translate("PoiEditorDialog", "Display the name", Q_NULLPTR));
+        btValid->setText(QApplication::translate("PoiEditorDialog", "Ok", Q_NULLPTR));
+        btCancel->setText(QApplication::translate("PoiEditorDialog", "Cancel", Q_NULLPTR));
+        btDelete->setText(QApplication::translate("PoiEditorDialog", "Delete this POI", Q_NULLPTR));
     } // retranslateUi
 
 };

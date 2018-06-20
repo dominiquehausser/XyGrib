@@ -1,7 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'PositionEditorWidget.ui'
 **
-** Created by: Qt User Interface Compiler version 5.10.0
+** Created by: Qt User Interface Compiler version 5.9.1
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/
@@ -143,13 +143,13 @@ public:
 
     void retranslateUi(QWidget *PositionEditorWidget)
     {
-        PositionEditorWidget->setWindowTitle(QApplication::translate("PositionEditorWidget", "Form", nullptr));
-        label_lat->setText(QApplication::translate("PositionEditorWidget", "Latitude", nullptr));
-        lat_degrees->setSuffix(QApplication::translate("PositionEditorWidget", " \302\260", nullptr));
-        lat_minutes->setSuffix(QApplication::translate("PositionEditorWidget", " '", nullptr));
-        label_lon->setText(QApplication::translate("PositionEditorWidget", "Longitude", nullptr));
-        lon_degrees->setSuffix(QApplication::translate("PositionEditorWidget", " \302\260", nullptr));
-        lon_minutes->setSuffix(QApplication::translate("PositionEditorWidget", " '", nullptr));
+        PositionEditorWidget->setWindowTitle(QApplication::translate("PositionEditorWidget", "Form", Q_NULLPTR));
+        label_lat->setText(QApplication::translate("PositionEditorWidget", "Latitude", Q_NULLPTR));
+        lat_degrees->setSuffix(QApplication::translate("PositionEditorWidget", " \302\260", Q_NULLPTR));
+        lat_minutes->setSuffix(QApplication::translate("PositionEditorWidget", " '", Q_NULLPTR));
+        label_lon->setText(QApplication::translate("PositionEditorWidget", "Longitude", Q_NULLPTR));
+        lon_degrees->setSuffix(QApplication::translate("PositionEditorWidget", " \302\260", Q_NULLPTR));
+        lon_minutes->setSuffix(QApplication::translate("PositionEditorWidget", " '", Q_NULLPTR));
     } // retranslateUi
 
 };

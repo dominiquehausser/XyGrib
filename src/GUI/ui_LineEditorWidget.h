@@ -1,7 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'LineEditorWidget.ui'
 **
-** Created by: Qt User Interface Compiler version 5.10.0
+** Created by: Qt User Interface Compiler version 5.9.1
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/
@@ -113,8 +113,8 @@ public:
 
     void retranslateUi(QWidget *LineEditorWidget)
     {
-        LineEditorWidget->setWindowTitle(QApplication::translate("LineEditorWidget", "Form", nullptr));
-        resetButton->setText(QApplication::translate("LineEditorWidget", "Reset", nullptr));
+        LineEditorWidget->setWindowTitle(QApplication::translate("LineEditorWidget", "Form", Q_NULLPTR));
+        resetButton->setText(QApplication::translate("LineEditorWidget", "Reset", Q_NULLPTR));
     } // retranslateUi
 
 };

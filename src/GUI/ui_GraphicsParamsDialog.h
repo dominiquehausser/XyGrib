@@ -1,7 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'GraphicsParamsDialog.ui'
 **
-** Created by: Qt User Interface Compiler version 5.10.0
+** Created by: Qt User Interface Compiler version 5.9.1
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/
@@ -314,58 +314,58 @@ public:
 
     void retranslateUi(QDialog *GraphicsParamsDialog)
     {
-        GraphicsParamsDialog->setWindowTitle(QApplication::translate("GraphicsParamsDialog", "Graphical parameters", nullptr));
-        label_14->setText(QApplication::translate("GraphicsParamsDialog", "Isotherms (altitude) :", nullptr));
-        label_5->setText(QApplication::translate("GraphicsParamsDialog", "Background color :", nullptr));
+        GraphicsParamsDialog->setWindowTitle(QApplication::translate("GraphicsParamsDialog", "Graphical parameters", Q_NULLPTR));
+        label_14->setText(QApplication::translate("GraphicsParamsDialog", "Isotherms (altitude) :", Q_NULLPTR));
+        label_5->setText(QApplication::translate("GraphicsParamsDialog", "Background color :", Q_NULLPTR));
 #ifndef QT_NO_TOOLTIP
         inputBgColor->setToolTip(QString());
 #endif // QT_NO_TOOLTIP
 #ifndef QT_NO_WHATSTHIS
         inputBgColor->setWhatsThis(QString());
 #endif // QT_NO_WHATSTHIS
-        label_6->setText(QApplication::translate("GraphicsParamsDialog", "Sea color :", nullptr));
+        label_6->setText(QApplication::translate("GraphicsParamsDialog", "Sea color :", Q_NULLPTR));
 #ifndef QT_NO_TOOLTIP
         inputSeaColor->setToolTip(QString());
 #endif // QT_NO_TOOLTIP
 #ifndef QT_NO_WHATSTHIS
         inputSeaColor->setWhatsThis(QString());
 #endif // QT_NO_WHATSTHIS
-        label_7->setText(QApplication::translate("GraphicsParamsDialog", "Land color :", nullptr));
+        label_7->setText(QApplication::translate("GraphicsParamsDialog", "Land color :", Q_NULLPTR));
 #ifndef QT_NO_TOOLTIP
         inputLandColor->setToolTip(QString());
 #endif // QT_NO_TOOLTIP
 #ifndef QT_NO_WHATSTHIS
         inputLandColor->setWhatsThis(QString());
 #endif // QT_NO_WHATSTHIS
-        label_8->setText(QApplication::translate("GraphicsParamsDialog", "Sea border lines :", nullptr));
+        label_8->setText(QApplication::translate("GraphicsParamsDialog", "Sea border lines :", Q_NULLPTR));
 #ifndef QT_NO_TOOLTIP
         inputSeaBordersLine->setToolTip(QString());
 #endif // QT_NO_TOOLTIP
 #ifndef QT_NO_WHATSTHIS
         inputSeaBordersLine->setWhatsThis(QString());
 #endif // QT_NO_WHATSTHIS
-        label_9->setText(QApplication::translate("GraphicsParamsDialog", "Boundaries :", nullptr));
+        label_9->setText(QApplication::translate("GraphicsParamsDialog", "Boundaries :", Q_NULLPTR));
 #ifndef QT_NO_TOOLTIP
         inputBoundariesLine->setToolTip(QString());
 #endif // QT_NO_TOOLTIP
 #ifndef QT_NO_WHATSTHIS
         inputBoundariesLine->setWhatsThis(QString());
 #endif // QT_NO_WHATSTHIS
-        label_10->setText(QApplication::translate("GraphicsParamsDialog", "Rivers :", nullptr));
+        label_10->setText(QApplication::translate("GraphicsParamsDialog", "Rivers :", Q_NULLPTR));
 #ifndef QT_NO_TOOLTIP
         inputRiversLine->setToolTip(QString());
 #endif // QT_NO_TOOLTIP
 #ifndef QT_NO_WHATSTHIS
         inputRiversLine->setWhatsThis(QString());
 #endif // QT_NO_WHATSTHIS
-        label_11->setText(QApplication::translate("GraphicsParamsDialog", "Isobars :", nullptr));
+        label_11->setText(QApplication::translate("GraphicsParamsDialog", "Isobars :", Q_NULLPTR));
 #ifndef QT_NO_TOOLTIP
         inputIsobarsLine->setToolTip(QString());
 #endif // QT_NO_TOOLTIP
 #ifndef QT_NO_WHATSTHIS
         inputIsobarsLine->setWhatsThis(QString());
 #endif // QT_NO_WHATSTHIS
-        label_12->setText(QApplication::translate("GraphicsParamsDialog", "Isotherms 0\302\260C :", nullptr));
+        label_12->setText(QApplication::translate("GraphicsParamsDialog", "Isotherms 0\302\260C :", Q_NULLPTR));
 #ifndef QT_NO_TOOLTIP
         inputIsotherms0Line->setToolTip(QString());
 #endif // QT_NO_TOOLTIP
@@ -378,16 +378,16 @@ public:
 #ifndef QT_NO_WHATSTHIS
         inputIsotherms_Line->setWhatsThis(QString());
 #endif // QT_NO_WHATSTHIS
-        label_13->setText(QApplication::translate("GraphicsParamsDialog", "Cloud cover :", nullptr));
-        label_15->setText(QApplication::translate("GraphicsParamsDialog", "Theta-e :", nullptr));
+        label_13->setText(QApplication::translate("GraphicsParamsDialog", "Cloud cover :", Q_NULLPTR));
+        label_15->setText(QApplication::translate("GraphicsParamsDialog", "Theta-e :", Q_NULLPTR));
 #ifndef QT_NO_TOOLTIP
         inputThetaE_Line->setToolTip(QString());
 #endif // QT_NO_TOOLTIP
 #ifndef QT_NO_WHATSTHIS
         inputThetaE_Line->setWhatsThis(QString());
 #endif // QT_NO_WHATSTHIS
-        btOK->setText(QApplication::translate("GraphicsParamsDialog", "Ok", nullptr));
-        btCancel->setText(QApplication::translate("GraphicsParamsDialog", "Cancel", nullptr));
+        btOK->setText(QApplication::translate("GraphicsParamsDialog", "Ok", Q_NULLPTR));
+        btCancel->setText(QApplication::translate("GraphicsParamsDialog", "Cancel", Q_NULLPTR));
     } // retranslateUi
 
 };

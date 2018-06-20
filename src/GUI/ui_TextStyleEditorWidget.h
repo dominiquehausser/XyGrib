@@ -1,7 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'TextStyleEditorWidget.ui'
 **
-** Created by: Qt User Interface Compiler version 5.10.0
+** Created by: Qt User Interface Compiler version 5.9.1
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/
@@ -176,18 +176,18 @@ public:
 
     void retranslateUi(QWidget *TextStyleEditorWidget)
     {
-        TextStyleEditorWidget->setWindowTitle(QApplication::translate("TextStyleEditorWidget", "Form", nullptr));
-        testZoneLabel->setText(QApplication::translate("TextStyleEditorWidget", "TextLabel", nullptr));
+        TextStyleEditorWidget->setWindowTitle(QApplication::translate("TextStyleEditorWidget", "Form", Q_NULLPTR));
+        testZoneLabel->setText(QApplication::translate("TextStyleEditorWidget", "TextLabel", Q_NULLPTR));
 #ifndef QT_NO_TOOLTIP
-        textColorWidget->setToolTip(QApplication::translate("TextStyleEditorWidget", "Text color", nullptr));
+        textColorWidget->setToolTip(QApplication::translate("TextStyleEditorWidget", "Text color", Q_NULLPTR));
 #endif // QT_NO_TOOLTIP
 #ifndef QT_NO_TOOLTIP
-        bgColorWidget->setToolTip(QApplication::translate("TextStyleEditorWidget", "Background color", nullptr));
+        bgColorWidget->setToolTip(QApplication::translate("TextStyleEditorWidget", "Background color", Q_NULLPTR));
 #endif // QT_NO_TOOLTIP
 #ifndef QT_NO_TOOLTIP
-        resetButton->setToolTip(QApplication::translate("TextStyleEditorWidget", "Default values", nullptr));
+        resetButton->setToolTip(QApplication::translate("TextStyleEditorWidget", "Default values", Q_NULLPTR));
 #endif // QT_NO_TOOLTIP
-        resetButton->setText(QApplication::translate("TextStyleEditorWidget", "Reset", nullptr));
+        resetButton->setText(QApplication::translate("TextStyleEditorWidget", "Reset", Q_NULLPTR));
     } // retranslateUi
 
 };
